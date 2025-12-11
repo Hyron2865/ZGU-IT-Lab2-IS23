@@ -1,4 +1,4 @@
-print("Hello world!")
+print("Goodbye world!")
 
 a = int(input())
 b = int(input())
